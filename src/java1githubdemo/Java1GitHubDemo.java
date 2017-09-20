@@ -7,6 +7,12 @@ public class Java1GitHubDemo {
         System.out.println("Hello, world!");
         
         
+        printname();
     }
+
+    private static void printname() {
+        System.out.println("Linus Torvald");
+    }
+    
     
 }
